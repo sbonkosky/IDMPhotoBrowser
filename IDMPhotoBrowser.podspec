@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 
   s.framework = 'MessageUI', 'QuartzCore'
 
-  s.dependency 'AFNetworking', '~> 1.3.1'
+  s.dependency 'AFNetworking', '~> 1.2.1'
   s.dependency 'DACircularProgress', '~> 2.1.0'
   s.dependency 'SVProgressHUD', '~> 0.9'
   
